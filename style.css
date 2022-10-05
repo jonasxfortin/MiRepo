@@ -1,0 +1,13 @@
+body{
+	background-image: linear-gradient(to right top, rgb(97, 120, 252), white);
+	background-repeat: no-repeat;
+	background-size: 2200px;
+}
+div{
+	background-image: linear-gradient(to right top, rgb(252, 190, 97), white);
+
+}
+img{
+	border-radius: 30%;
+	border-color: gray;
+}
